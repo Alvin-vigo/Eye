@@ -1,0 +1,1 @@
+{"cases":[{"id":1,"priority":"p0","description":"打开登录页，验证品牌、表单、第三方登录和隐私卡片"},{"id":2,"priority":"p0","description":"使用演示账号登录，成功跳转到控制台总览页"},{"id":3,"priority":"p1","description":"控制台总览页显示设备状态、统计卡片和订阅信息"},{"id":4,"priority":"p1","description":"侧边栏导航切换：设备页、功能页、无障碍页、云端页"},{"id":5,"priority":"p2","description":"帮助中心页显示搜索框、6个快速链接卡片和FAQ列表"}]}
